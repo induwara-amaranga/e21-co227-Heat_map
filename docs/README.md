@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e21-co227-Heat_map
+title:Heat Map System For Real Time Crowd Flow Monitoring-Group 06
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
